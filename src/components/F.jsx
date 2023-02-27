@@ -22,7 +22,7 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Do you want us to make you a web, <br className="sm:block hidden" /> we got you .
+Need a website for your Business?<br className="sm:block hidden" /> we got you .
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       </p>

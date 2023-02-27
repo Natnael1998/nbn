@@ -155,7 +155,47 @@ body{
 }
 .hh{
   margin: 0 50px;
-  animation: linear 1000ms alternate  b infinite;
-
-  box-shadow: #bef3f5 14px 24px 94px 4px;
+transform: rotateZ(5deg);
+  box-shadow: white -4px 24px 1224px -61px;
 }
+.mi{
+  transform: rotate(-10deg);
+
+}
+.nn{
+  transform: rotate(10deg);
+  width: 500px;
+
+}
+.hid{
+  opacity: 0;
+  filter: blur(5px);
+  transition: all 2s ease;
+  transform: translateX(-100%);
+ }
+ .hidd{
+  
+  opacity: 0;
+  filter: blur(5px);
+  transition: all 2s ease;
+  transform: translateX(100%);
+  transition-delay: 500ms;
+  
+ }
+ body::-webkit-scrollbar   {
+background-color: #11101d;
+width: 0.1px;
+ }
+ body{
+
+ }
+ 
+ .show{
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+
+
+
+ }
+ 

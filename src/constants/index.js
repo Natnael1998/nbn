@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Building",
     content:
-      "we can building you any website you want only frontend or backend or both.",
+      "we can build any website for your business and have a varaiety  of templates for you to choose from. ",
   },
   {
     id: "feature-2",

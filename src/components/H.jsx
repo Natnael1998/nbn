@@ -26,8 +26,8 @@ const Hero = () => {
         </p>
       </div>
 
-      <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img  src="https://th.bing.com/th/id/R.c8e11f3d3ae0a2374578bcb8cec22b6e?rik=%2B6LdHeMZQ%2FlDaA&pid=ImgRaw&r=0" alt="" className="w-[100%] h-[100%] relative z-[5] rounded-xl  hh" />
+      <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-20 relative `}>
+        <img  src="https://th.bing.com/th/id/R.3618ac47d6528f0b020122e91be86e1b?rik=KYKzuprFV6%2bBug&pid=ImgRaw&r=0" alt="" className="w-[600px] h-[400px] object-cover relative z-[5] rounded-xl  hh " />
 
         
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
